@@ -1,3 +1,3 @@
 # Automatyczny-haker
 Haker AI do sprawdzania zabezpieczeń.
-Debugowanie, hakowanie, aktualizacje. 
+Debugowanie, hakowanie szukanie dziury w kodzie, aktualizacje. 
